@@ -1,0 +1,5 @@
+satellite's effective area for solar radiation: 0.1
+satellite's effective area for drag: 0.09577
+satellite's mass: 47.29
+Cr: 1.1 % according to the paper
+Cd: 2.3
